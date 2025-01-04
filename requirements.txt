@@ -1,0 +1,2 @@
+pynusmv==1.0rc8
+pyparsing==3.1.4
